@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Gordon&#39;s Blog</title>
+    <link>https://gordongwb.github.io/categories/</link>
+    <description>Recent content in Categories on Gordon&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Sat, 27 Apr 2019 11:14:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://gordongwb.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test</title>
+      <link>https://gordongwb.github.io/categories/test/</link>
+      <pubDate>Sat, 27 Apr 2019 11:14:46 +0800</pubDate>
+      
+      <guid>https://gordongwb.github.io/categories/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>https://gordongwb.github.io/categories/tools/</link>
+      <pubDate>Wed, 27 Mar 2019 11:14:46 +0800</pubDate>
+      
+      <guid>https://gordongwb.github.io/categories/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>杂项</title>
+      <link>https://gordongwb.github.io/categories/%E6%9D%82%E9%A1%B9/</link>
+      <pubDate>Sun, 17 Feb 2019 10:15:00 +0800</pubDate>
+      
+      <guid>https://gordongwb.github.io/categories/%E6%9D%82%E9%A1%B9/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
